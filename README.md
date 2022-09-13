@@ -1,5 +1,0 @@
-# .github
-
-## Hello world
-
-Test
